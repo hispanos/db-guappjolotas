@@ -1,0 +1,66 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Guajolotas"
+        },
+        {
+            "id": 2,
+            "name": "Bebidas"
+        },
+        {
+            "id": 3,
+            "name": "Tamales"
+        }
+    ],
+    "foods": [
+        {
+            "id": 1,
+            "category": 1,
+            "price": 25,
+            "image_main": "guajolotas/verde.png",
+            "flavor": "Verde",
+            "image_flavor": "tastes/verde.png"
+        },
+        {
+            "id": 2,
+            "category": 1,
+            "price": 25,
+            "image_main": "guajolotas/verde.png",
+            "flavor": "Mole",
+            "image_flavor": "tastes/mole.png"
+        },
+        {
+            "id": 3,
+            "category": 1,
+            "price": 25,
+            "image_main": "guajolotas/verde.png",
+            "flavor": "Guayaba",
+            "image_flavor": "tastes/guayaba.png"
+        },
+        {
+            "id": 4,
+            "category": 1,
+            "price": 25,
+            "image_main": "guajolotas/verde.png",
+            "flavor": "Piña",
+            "image_flavor": "tastes/piña.png"
+        },
+        {
+            "id": 5,
+            "category": 1,
+            "price": 25,
+            "image_main": "guajolotas/verde.png",
+            "flavor": "Pasas",
+            "image_flavor": "tastes/pasas.png"
+        },
+        {
+            "id": 6,
+            "category": 1,
+            "price": 25,
+            "image_main": "guajolotas/verde.png",
+            "flavor": "Rajas",
+            "image_flavor": "tastes/rajas.png"
+        }
+    ]
+}
