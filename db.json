@@ -26,7 +26,7 @@
             "id": 2,
             "category": 1,
             "price": 25,
-            "image_main": "guajolotas/verde.png",
+            "image_main": "guajolotas/mole.png",
             "flavor": "Mole",
             "image_flavor": "flavors/mole.png"
         },
@@ -34,7 +34,7 @@
             "id": 3,
             "category": 1,
             "price": 25,
-            "image_main": "guajolotas/verde.png",
+            "image_main": "guajolotas/guayaba.png",
             "flavor": "Guayaba",
             "image_flavor": "flavors/guayaba.png"
         },
@@ -42,7 +42,7 @@
             "id": 4,
             "category": 1,
             "price": 25,
-            "image_main": "guajolotas/verde.png",
+            "image_main": "guajolotas/piña.png",
             "flavor": "Piña",
             "image_flavor": "flavors/piña.png"
         },
@@ -50,7 +50,7 @@
             "id": 5,
             "category": 1,
             "price": 25,
-            "image_main": "guajolotas/verde.png",
+            "image_main": "guajolotas/pasas.png",
             "flavor": "Pasas",
             "image_flavor": "flavors/pasas.png"
         },
@@ -58,7 +58,7 @@
             "id": 6,
             "category": 1,
             "price": 25,
-            "image_main": "guajolotas/verde.png",
+            "image_main": "guajolotas/rajas.png",
             "flavor": "Rajas",
             "image_flavor": "flavors/rajas.png"
         }
