@@ -20,7 +20,7 @@
             "price": 25,
             "image_main": "guajolotas/verde.png",
             "flavor": "Verde",
-            "image_flavor": "tastes/verde.png"
+            "image_flavor": "flavors/verde.png"
         },
         {
             "id": 2,
@@ -28,7 +28,7 @@
             "price": 25,
             "image_main": "guajolotas/verde.png",
             "flavor": "Mole",
-            "image_flavor": "tastes/mole.png"
+            "image_flavor": "flavors/mole.png"
         },
         {
             "id": 3,
@@ -36,7 +36,7 @@
             "price": 25,
             "image_main": "guajolotas/verde.png",
             "flavor": "Guayaba",
-            "image_flavor": "tastes/guayaba.png"
+            "image_flavor": "flavors/guayaba.png"
         },
         {
             "id": 4,
@@ -44,7 +44,7 @@
             "price": 25,
             "image_main": "guajolotas/verde.png",
             "flavor": "Piña",
-            "image_flavor": "tastes/piña.png"
+            "image_flavor": "flavors/piña.png"
         },
         {
             "id": 5,
@@ -52,7 +52,7 @@
             "price": 25,
             "image_main": "guajolotas/verde.png",
             "flavor": "Pasas",
-            "image_flavor": "tastes/pasas.png"
+            "image_flavor": "flavors/pasas.png"
         },
         {
             "id": 6,
@@ -60,7 +60,7 @@
             "price": 25,
             "image_main": "guajolotas/verde.png",
             "flavor": "Rajas",
-            "image_flavor": "tastes/rajas.png"
+            "image_flavor": "flavors/rajas.png"
         }
     ]
 }
