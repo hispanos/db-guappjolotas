@@ -96,7 +96,7 @@
         },
         {
             "id": 11,
-            "category": 1,
+            "category": 3,
             "price": 25,
             "image_main": "https://i.imgur.com/BKBuUo5.png",
             "flavor": "Tamal Verde",
@@ -104,7 +104,7 @@
         },
         {
             "id": 12,
-            "category": 1,
+            "category": 3,
             "price": 25,
             "image_main": "https://i.imgur.com/6PlLg0O.png",
             "flavor": "Tamal de Mole",
@@ -112,7 +112,7 @@
         },
         {
             "id": 13,
-            "category": 1,
+            "category": 3,
             "price": 25,
             "image_main": "https://i.imgur.com/LFtvCxy.png",
             "flavor": "Tamal de Guayaba",
@@ -120,7 +120,7 @@
         },
         {
             "id": 14,
-            "category": 1,
+            "category": 3,
             "price": 25,
             "image_main": "https://i.imgur.com/Fp2x2Z7.png",
             "flavor": "Tamal de Piña",
@@ -128,7 +128,7 @@
         },
         {
             "id": 15,
-            "category": 1,
+            "category": 3,
             "price": 25,
             "image_main": "https://i.imgur.com/zxmjHC2.png",
             "flavor": "Tamal de Pasas",
@@ -136,7 +136,7 @@
         },
         {
             "id": 16,
-            "category": 1,
+            "category": 3,
             "price": 25,
             "image_main": "https://i.imgur.com/zxmjHC2.png",
             "flavor": "Tamal de Rajas",
